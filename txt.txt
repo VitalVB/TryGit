@@ -1,2 +1,3 @@
 my file
+second line
 lll
